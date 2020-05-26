@@ -18,8 +18,8 @@ USER_BOT_NO_WARN = ("[THIS IS AUTOMATIC REPLY REPLY FROM MY BOSS USERBOT - FRIDA
                     "**I Assist My Master"
                     f"{DEFAULTUSER}'s inbox**.\n\n"
                     "`I Try To:` **Avoid Spams And Unwanted Messages On Boss's Inbox!**\n\n"
-                    "**My Master Is Little Busy Please Wait!**\n\n"
-                    "** If You Don't Want to waste Your Time Then send `/start` To Start A Valid Conversation with m!e. ")
+                    "**My Master Is Little Busy Please Wait!He Is Working On Something!**\n\n"
+                    "** Please Send `/start` To Register You Request!. ")
 
 
 if Var.PRIVATE_GROUP_ID is not None:
