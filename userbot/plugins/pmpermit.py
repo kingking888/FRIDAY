@@ -13,9 +13,7 @@ PREV_REPLY_MESSAGE = {}
 
 DEFAULTUSER = str(ALIVE_NAME) if ALIVE_NAME else "Set ALIVE_NAME in config vars in Heroku"
 USER_BOT_WARN_ZERO = "`You were spamming my boss inbox, henceforth your retarded lame ass has been blocked by my boss userbot.` "
-USER_BOT_NO_WARN = ("[ ┏┓━┏┓━━━┓━┓ /n┃┃━┃┃━━━┃━┃ /n┃┗━┛┃━━┓┃━┃━━━┓ /n┃┏━┓┃┏┓┃┃━┃━┏┓┃ /n┃┃━┃┃┃━┫┗┓┗┓┗┛┃ /n┗┛━┗┛━━┛━┛━┛━━┛
-
-](https://github.com/midhunkm1294-bit/FRIDAY)\n\n"
+USER_BOT_NO_WARN = ("[┏┓━┏┓━━━┓━┓ /n┃┃━┃┃━━━┃━┃ /n┃┗━┛┃━━┓┃━┃━━━┓ /n┃┏━┓┃┏┓┃┃━┃━┏┓┃ /n┃┃━┃┃┃━┫┗┓┗┓┗┛┃ /n┗┛━┗┛━━┛━┛━┛━━┛](https://github.com/midhunkm1294-bit/FRIDAY)\n\n"
                     "`This Is` **FRIDAY Userbot Service.**\n"
                     "**I Assist My Master"
                     f"{DEFAULTUSER}'s inbox**.\n\n"
