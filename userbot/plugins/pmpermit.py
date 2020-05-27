@@ -13,13 +13,15 @@ PREV_REPLY_MESSAGE = {}
 
 DEFAULTUSER = str(ALIVE_NAME) if ALIVE_NAME else "Set ALIVE_NAME in config vars in Heroku"
 USER_BOT_WARN_ZERO = "`You were spamming my boss inbox, henceforth your retarded lame ass has been blocked by my boss userbot.` "
-USER_BOT_NO_WARN = ("[THIS IS AUTOMATIC REPLY REPLY FROM MY BOSS USERBOT - FRIDAY ](https://github.com/midhunkm1294-bit/FRIDAY)\n\n"
+USER_BOT_NO_WARN = ("[ ┏┓━┏┓━━━┓━┓ /n┃┃━┃┃━━━┃━┃ /n┃┗━┛┃━━┓┃━┃━━━┓ /n┃┏━┓┃┏┓┃┃━┃━┏┓┃ /n┃┃━┃┃┃━┫┗┓┗┓┗┛┃ /n┗┛━┗┛━━┛━┛━┛━━┛
+
+](https://github.com/midhunkm1294-bit/FRIDAY)\n\n"
                     "`This Is` **FRIDAY Userbot Service.**\n"
                     "**I Assist My Master"
                     f"{DEFAULTUSER}'s inbox**.\n\n"
                     "`I Try To:` **Avoid Spams And Unwanted Messages On Boss's Inbox!**\n\n"
                     "**My Master Is Little Busy Please Wait!He Is Working On Something!**\n\n"
-                    "** Please Send `/start` To Register You Request!. ")
+                    "**Please Send `/start` To Register You Request!. ")
 
 
 if Var.PRIVATE_GROUP_ID is not None:
